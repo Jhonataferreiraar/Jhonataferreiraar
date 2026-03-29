@@ -48,6 +48,7 @@
 
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhonata334&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonata334&layout=compact&theme=dark&langs_count=10)
 
 ---
