@@ -47,7 +47,7 @@
 ---
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhonata334&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonata334&layout=compact&theme=dark&langs_count=10)
 
