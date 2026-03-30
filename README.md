@@ -47,9 +47,11 @@
 ---
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhonata334&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhonata334&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonata334&layout=compact&theme=dark&langs_count=10)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhonata334&theme=github_dark)
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhonata334&theme=github_dark)
 
 ---
 
