@@ -47,7 +47,9 @@
 ---
 
 ## 📊 Estatísticas
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhonata334&theme=github_dark) ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhonata334&theme=github_dark)
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhonata334&theme=github_dark)
 ---
 
 ## 📫 Contato
