@@ -48,7 +48,7 @@
 
 ## 📊 Estatísticas
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Jhonata334.png)](https://tryhackme.com/p/SEU_USUARIO)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ferreirajho400.png)](https://tryhackme.com/p/ferreirajho400)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhonata334&theme=github_dark) ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhonata334&theme=github_dark)
 
